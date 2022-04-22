@@ -8,4 +8,5 @@ Fork this repo and click the button below to deploy.
 
 See the guide at https://render.com/docs/deploy-strapi for more information.
 
-Make change
+Make change.
+Make new change.
